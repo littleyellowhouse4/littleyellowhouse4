@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @littleyellowhouse4
+- 👀 I’m interested in Computer Science!
+- 🌱 I’m currently learning about Data Science, Python, SQL
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me on LinkedIn: @Kailah Boston
